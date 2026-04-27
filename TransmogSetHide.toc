@@ -1,4 +1,4 @@
-## Interface: 110007
+## Interface: 120005
 ## Title: Transmog Set Hide
 ## Notes: Allows hiding and unhiding of Transmog Sets in the native Wardrobe UI.
 ## Title-zhCN: |cff00ccff[幻化]|r 套装隐藏
