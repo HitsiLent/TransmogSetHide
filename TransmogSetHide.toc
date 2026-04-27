@@ -1,0 +1,12 @@
+## Interface: 110007
+## Title: Transmog Set Hide
+## Notes: Allows hiding and unhiding of Transmog Sets in the native Wardrobe UI.
+## Title-zhCN: |cff00ccff[幻化]|r 套装隐藏
+## Notes-zhCN: 允许在原生的衣柜套装界面中隐藏和取消隐藏特定套装。
+## Author: Antigravity
+## Version: 1.0.0
+## SavedVariables: TransmogSetHideDB
+
+Locales\enUS.lua
+Locales\zhCN.lua
+Core.lua
